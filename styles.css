@@ -1,0 +1,10 @@
+.container {
+  max-width: 400px;
+  margin: 20% auto;
+  text-align: center;
+}
+
+.progress {
+  display: none;
+  margin-bottom: 30px;
+}
